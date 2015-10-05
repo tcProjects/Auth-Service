@@ -1,10 +1,11 @@
 * authenticate user
   * request
-```json
+  * ```json
 {
 	"username": "name",
 	"password": "password"
 }
+```
   * response
 ```json
 {
